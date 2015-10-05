@@ -8,4 +8,4 @@ I'm going to link to [twitter]
 (http://twitter.com "Twitter homepage")
 
 #This is a screenshot of the work done
-![screenshot](/phase-0-gps-1/screenshot.png)
+![screenshot](screenshot.png)
